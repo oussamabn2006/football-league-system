@@ -1,0 +1,19 @@
+build/
+.env
+*.exe
+*.o
+*.a
+test_tmp_*
+
+# Environment variables and secrets
+.env
+
+# Build files and generated binaries
+build/
+*.exe
+*.o
+*.obj
+*.a
+
+# Temporary test files
+test_tmp_*
